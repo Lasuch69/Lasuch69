@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lasuch69
 - 👀 I’m interested in computer graphics and programming.
-- 🌱 I’m currently learning developing in practice on open source projects.
 - 💞️ I’m looking to collaborate on apps development.
 - 📫 How to reach me. Email: stylizedstickman@gmail.com
 
