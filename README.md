@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hello 👋
+
+### I am Lasuch!
+
+I am 17 y/o, and I live in poland. I am mostly interested in creating back-end and desktop apps.
+
+## About me
+
+Programming since I was 14 y/o.
+
+Proud neovim enjoyer and FOSS enthusiast.
+
+I prefer lower-level programming and I hate JS. :>
+
+Learning japanese as my third language.
 
 <!--
 **Lasuch69/Lasuch69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
