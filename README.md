@@ -10,6 +10,5 @@ I also did [2 certificates](https://www.freecodecamp.org/Lasuch) in the past.
 
 ## Fun facts
 
+- Burning passion for programming since 2019.
 - Proud neovim enjoyer and FOSS enthusiast.
-- I prefer lower-level programming and I hate JS. :>
-- Learning Japanese as my third language (I am language enjoyer).
