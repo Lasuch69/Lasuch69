@@ -1,9 +1,8 @@
 # Hello 👋
 
-
 ## About me
 
-Just a ordinary dumbass trying to not write garbage code on his spare time. :)
+Just an ordinary dumbass trying not to write garbage code on his spare time. :)
 
 Low level is where I feel like I can breathe.
 
