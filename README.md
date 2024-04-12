@@ -3,16 +3,8 @@
 
 ## About me
 
-I am mostly interested in creating desktop apps and games.
+Just a ordinary dumbass trying to not write garbage code on his spare time. :)
 
-Looking for a job as a C++ software developer.
+Low level is where I feel like I can breathe.
 
-I also did [2 certificates](https://www.freecodecamp.org/Lasuch) in the past.
-
-
-## Fun facts
-
-- English level B2-C1.
-- Born in Poland.
-- Burning passion for programming since 2019.
-- Proud neovim enjoyer and FOSS enthusiast.
+C/C++ and Rust enjoyer.
